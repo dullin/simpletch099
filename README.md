@@ -6,7 +6,7 @@ Amusons-nous ensemble pour découvrir Git.
 
 ## Nouveau contenu
 
-Pour mettre dans un commit.
+C'est bien de travailler avec du nouveau contenu.
 
 ## Du nouveau travail
 On ajoute toujours plus de contenu.
