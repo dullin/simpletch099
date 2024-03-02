@@ -9,4 +9,5 @@ Amusons-nous ensemble pour découvrir Git.
 Pour mettre dans un commit.
 
 ## Du nouveau travail
-On ajoute toujours plus de contenu
+On ajoute toujours plus de contenu.
+Encore plus de nouveau travai!
