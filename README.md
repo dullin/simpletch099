@@ -2,7 +2,7 @@
 
 Ceci est un dépôt pour faire des manipulations avec Git.
 
-Amusons-nous.
+Amusons-nous ensemble pour découvrir Git.
 
 ## Nouveau contenu
 
