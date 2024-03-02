@@ -14,4 +14,5 @@ On ajoute toujours plus de contenu.
 Encore plus de nouveau travai!
 
 ## A new challenger has entered the fray
-Voici du stock a regarder
+Ceci est une section ou on décrit des choses à regarder.
+Merci de votre compréhension.
