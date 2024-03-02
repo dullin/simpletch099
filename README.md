@@ -7,6 +7,7 @@ Amusons-nous ensemble pour découvrir Git.
 ## Nouveau contenu
 
 Ceci est aussi une autre modification
+C'est bien de travailler avec du nouveau contenu.
 
 ## Du nouveau travail
 On ajoute toujours plus de contenu.
