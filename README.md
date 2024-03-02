@@ -16,3 +16,6 @@ Encore plus de nouveau travai!
 ## A new challenger has entered the fray
 Ceci est une section ou on décrit des choses à regarder.
 Merci de votre compréhension.
+
+# Cette fois-ci de VSCode
+Ça change pas grand chose.
